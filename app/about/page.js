@@ -1,4 +1,3 @@
-// app/about/page.js
 export default function AboutPage() {
     return (
       <section className="max-w-3xl mx-auto py-16 px-4">
